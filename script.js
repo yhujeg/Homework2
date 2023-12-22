@@ -12,30 +12,20 @@
 // alert (`Имя создателя JavaScript - ${creatorName}.`);
 
 // задание 4
-// let x = 10;
-// let y = 2;
-// let resultPlus = x + y;
-// alert (resultPlus);
+// let a = 10;
+// let b = 2;
+// alert(a + b);
 
-// let z = 10;
-// let c = 2;
-// let resultMinus = x - y;
-// alert (resultMinus);
+// alert(a - b);
 
-// let g = 10;
-// let j = 2;
-// let resultMultiply = g * j;
-// alert (resultMultiply);
+// alert(a * b);
 
-// let v = 10;
-// let p = 2;
-// let resultDivide = v / p;
-// alert (resultDivide);
+// alert(a / b);
 
 // задание 5
-// let h = 2;
-// let n = 5;
-// let result = h**n;
+// let a = 2;
+// let b = 5;
+// let result = a**b;
 // alert (result);
 
 // задание 6
@@ -61,18 +51,18 @@
 // задание 9
 // const user = {
 // 	name: 'Pablo',
-// 	age: '44',
-// 	isAmdin: 'false',
+// 	age: 44,
+// 	isAmdin: false,
 // };
 
 // задание 9.1
-// user["cityOfResidence"] = "Acapulco";
+// user["city of residence"] = "Acapulco";
 
 // задание 9.2
 // user.age = 35;
 
 // задание 9.3
-// delete user.cityOfResidence;
+// delete user.["city of residence"];
 
 // задание 9.4
 // let info = prompt ("Какую информацию хотите узнать о пользователе?");
@@ -80,4 +70,4 @@
 
 // задание 10
 // let name = prompt ('Как вас зовут?');
-// alert (`Привет, ${name}!`)
+// alert (`Привет, ${name}!`);
