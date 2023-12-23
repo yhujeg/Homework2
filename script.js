@@ -23,9 +23,9 @@
 // alert(a / b);
 
 // задание 5
-// let a = 2;
-// let b = 5;
-// let result = a**b;
+// let theFirstNum = 2;
+// let theSecondNum = 5;
+// let result = theFirstNum**theSecondNum;
 // alert (result);
 
 // задание 6
@@ -62,7 +62,7 @@
 // user.age = 35;
 
 // задание 9.3
-// delete user.["city of residence"];
+// delete user["city of residence"];
 
 // задание 9.4
 // let info = prompt ("Какую информацию хотите узнать о пользователе?");
